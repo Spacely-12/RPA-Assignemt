@@ -1,0 +1,44 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "finalearn&Sequence_1",
+        "depositperiod&Sequence_1",
+        "initialdeposit&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "finalearn",
+        "depositperiod",
+        "initialdeposit"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "calculate.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "depositperiod&Sequence_1",
+        "initialdeposit&Sequence_1",
+        "finalearn&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "depositperiod",
+        "initialdeposit",
+        "finalearn"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
